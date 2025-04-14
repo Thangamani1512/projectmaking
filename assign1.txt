@@ -1,0 +1,77 @@
+.
+
+public class Learning
+{
+ 
+
+//attributes for content
+
+title;
+subject;
+contentmethod;
+level;
+duration;
+url;
+agegroup;
+
+//methods
+
+playmodule()
+updateprogress()
+unlockbadge()
+submitfeedback()
+quizarea()
+  
+  }
+
+2.
+ public class Order                                                      
+{
+
+//attributes
+ 
+  orderId;
+  customerId;
+  orderDate;
+  orderstatus;
+  paymentstatus;
+
+//methods
+ 
+   addProduct()
+   removeProduct()
+   calculateamount()
+   paymentmethod()
+   ordersummary()
+
+    }
+
+
+
+3.
+
+public class Booking
+  {
+  
+
+
+//attributes
+
+    bookingID;
+    destination;
+    depaturedate;
+    returndate;
+    bookingstatus;
+    paymentstatus;
+
+//methods
+
+    confrimbooking()
+    cancelbooking()
+    Processpayment()
+    documentsubmission()
+    paymentprocess()
+    
+  }
+
+
